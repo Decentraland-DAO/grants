@@ -53,3 +53,10 @@ This is a collection of all the projects made by the community funded by the DAO
 | [Governance Squad](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/governance       | https://github.com/decentraland/governance 
 | [Governance Squad](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/governance       | https://github.com/decentraland/governance 
 | [Governance Squad](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/governance       | https://github.com/decentraland/governance 
+
+## Legacy Grants (Approved before 2023)
+| Project                                                                          | Repository URL                                                  | Mirror repository URL                           |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
+| [Governance Squad](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/governance       | https://github.com/decentraland/governance 
+| [Governance Squad](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/governance       | https://github.com/decentraland/governance 
+| [Governance Squad](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/governance       | https://github.com/decentraland/governance 
