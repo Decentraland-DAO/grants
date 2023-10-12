@@ -48,30 +48,3 @@ This is a collection of all the projects made by the community funded by the Dec
 | [Integrating Decentraland with 4 other platforms](https://governance.decentraland.org/proposal/?id=47e1bb80-4139-11ec-be0c-afec86cba5e5)         | -     | -   | Uncompleted   |
 | [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb)  https://rentparcel.io/        | -     | -   | Completed   |
 | [Democratize Access to Decentraland for Renting, Marketing, and Hosting Events](https://governance.decentraland.org/proposal/?id=8a1e3180-0e3a-11ed-9d53-7b405ea02bcb)  https://rentparcel.io/        | -     | -   | Completed   |
-
-
-
-## In-world content Category
-| Project                                                                          | URL                                                  | Status                           |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
-
-## Documentation Category
-| Project                                                                          | URL                                                  | Status                           |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
-
-
-## Core Unit Category
-| Project                                                                          | URL                                                  | Status                           |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
-
-## Social Media Content Category
-| Project                                                                          | URL                                                  | Status                           |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
-
-## Sponsorship Category
-| Project                                                                          | URL                                                  | Status                           |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
-
-## Accelerator Category
-| Project                                                                          | URL                                                  | Status                           |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | -----------------------------------------------------|
