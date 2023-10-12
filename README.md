@@ -2,7 +2,7 @@
 
 This is a collection of all the projects made by the community funded by the Decentraland DAO.
 
-## Platform Category
+## Platform Category - Last update jul-30-2023
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------|-----------------------------|
 | [Doki's Pick n' Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74)                | https://github.com/Metassive/PunkPink-add-ons       | https://github.com/Decentraland-DAO/PunkPink-add-ons   | Active   |
