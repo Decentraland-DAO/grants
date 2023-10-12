@@ -2,19 +2,25 @@
 
 This is a collection of all the projects made by the community funded by the Decentraland DAO.
 
-## Platform Category - Last update jul-30-2023
+## Platform Category - Last update Sep-30-2023
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------|-----------------------------|
+| [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1)                | -       | -   | Active   |
+| [Creativity & Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0)                | -       | -   | Active   |
+| [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896)                | -       | -   | Active   |
+| [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0)                | -       | -   | Active   |
+| [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16)                | -       | -   | Active   |
+| [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67)                | -       | -   | Active   |
 | [Doki's Pick n' Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74)                | https://github.com/Metassive/PunkPink-add-ons       | https://github.com/Decentraland-DAO/PunkPink-add-ons   | Active   |
 | [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533)                | https://github.com/thehubdao/dcl-edit     | https://github.com/Decentraland-DAO/dcl-edit | Active   |
 | [2dcl - DCL's 2D Alternate Universe: Deployment and Discovery](https://governance.decentraland.org/proposal/?id=79e0c580-151e-11ee-93a7-ed9294f83f74) https://2dcl.org               | https://github.com/2dcl     | https://github.com/Decentraland-DAO/2dcl https://github.com/Decentraland-DAO/sample-scene https://github.com/Decentraland-DAO/website | Active   |
 | [Decentraland Studios](https://governance.decentraland.org/proposals)              | https://github.com/decentraland/studios       | https://github.com/Decentraland-DAO/studios | Active   |
 | [Genesis City](https://genesis.city/)                | https://github.com/genesis-city/genesis.city       | https://github.com/Decentraland-DAO/genesis.city | Active   |
-| [Community NFT TCG Framework](https://governance.decentraland.org/proposal/?id=724e75e0-187c-11ee-93a7-ed9294f83f74)                | In process       | In process | Active   |
+| [Community NFT TCG Framework](https://governance.decentraland.org/proposal/?id=724e75e0-187c-11ee-93a7-ed9294f83f74)                | -       | - | Active   |
 | [VR Client Mainteinance](https://governance.decentraland.org/proposal/?id=47aac310-c783-11ed-a85e-7ddcee7c678f)              | https://github.com/mr0ng/unity-renderer/tree/master      | https://github.com/Decentraland-DAO/vr-client   | Completed   |
 | [Virtual Land Manager](https://governance.decentraland.org/proposal/?id=65b37890-0a0c-11ee-bb17-db98a4ce871d)              | https://github.com/virtuallandmanager  | https://github.com/Decentraland-DAO/vlm-api https://github.com/Decentraland-DAO/vlm-docs https://github.com/Decentraland-DAO/vlm-dcl https://github.com/Decentraland-DAO/vlm-ui https://github.com/Decentraland-DAO/vlm-scenes https://github.com/Decentraland-DAO/vlm-metaverse-standards    | Completed   |
 | [800 add-ons repo for fashion creators](https://governance.decentraland.org/proposal/?id=689d8a10-07a4-11ee-bb17-db98a4ce871d)              | https://github.com/Metassive/PunkPink-add-ons       | https://github.com/Decentraland-DAO/PunkPink-add-ons   | Completed   |
-| [Creation of DAO-Owned Catalyst Archival Node](https://governance.decentraland.org/update/?id=46271910-19b0-11ee-93a7-ed9294f83f74)              | https://gitlab.com/atlas-corporation/dcl-dao-catalyst-data       | In process   | Completed   |
+| [Creation of DAO-Owned Catalyst Archival Node](https://governance.decentraland.org/update/?id=46271910-19b0-11ee-93a7-ed9294f83f74)              | https://gitlab.com/atlas-corporation/dcl-dao-catalyst-data       | -   | Completed   |
 | [Refund smart contract audit of DCLControllerV2](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333)              | Audit (No repo)       | -       |  Completed   |
 
 ## Platform Category (Legacy - approved before 2023 - Open Source was not a requisite)
