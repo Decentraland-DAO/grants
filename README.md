@@ -4,7 +4,7 @@ This is a collection of all the projects made by the community funded by the Dec
 
 ## Platform Category - Last update Sep-30-2023
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------|-----------------------------|
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
 | [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1)                | -       | -   | Active   |
 | [Creativity & Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0)                | -       | -   | Active   |
 | [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896)                | -       | -   | Active   |
