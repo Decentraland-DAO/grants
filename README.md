@@ -5,11 +5,13 @@ This is a collection of all the projects made by the community funded by the Dec
 ## Platform Category - Last update Sep-30-2023
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
+| [Atlas Analytics - Open Sourcing the Platform for the Community](https://decentraland.org/governance/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1)                | -       | -   | Active   |
+| [ChatGPT DCL-Docs Improvement](https://decentraland.org/governance/proposal/?id=c964129c-d517-4e3c-a564-e98cbe81d305)                | -       | -   | Active   |
 | [SDK7 Unity Editor Toolkit](https://governance.decentraland.org/proposal/?id=122c02b0-4b38-11ee-8dc1-47e81c0c49b1)                | -       | -   | Active   |
 | [Creativity & Growth - Sandstorm Creator platform](https://governance.decentraland.org/proposal/?id=fdae4090-2db5-11ee-a512-65477fceb1b0)                | -       | -   | Active   |
 | [In World Builder - No Code, No Deploy, Real-time Collaboration](https://governance.decentraland.org/proposal/?id=ca7784f0-3988-11ee-aec9-fb54fc0c7896)                | -       | -   | Active   |
 | [Decentraland University Live Teaching Platform](https://governance.decentraland.org/proposal/?id=527ec930-2fde-11ee-a512-65477fceb1b0)                | -       | -   | Active   |
-| [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16)                | -       | -   | Active   |
+| [Open Source SammichGame SDK7 +Community tools](https://governance.decentraland.org/proposal/?id=e7399950-35f7-11ee-be2d-676a2489bc16)                | https://github.com/sammich-dev/sammich-systems       | -   | Active   |
 | [In-World Snapshot voting library](https://governance.decentraland.org/proposal/?id=c96c3830-4d4c-11ee-beb5-696f9c967b67)                | -       | -   | Active   |
 | [Doki's Pick n' Mix](https://governance.decentraland.org/proposal/?id=220ce750-182d-11ee-93a7-ed9294f83f74)                | https://github.com/Metassive/PunkPink-add-ons       | https://github.com/Decentraland-DAO/PunkPink-add-ons   | Active   |
 | [DCL-Edit V3- A No Code Editor for the Decentraland SDK 7](https://governance.decentraland.org/proposal/?id=bdd44150-1c11-11ee-9bcb-ff4f8c446533)                | https://github.com/thehubdao/dcl-edit     | https://github.com/Decentraland-DAO/dcl-edit | Active   |
