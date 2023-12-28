@@ -2,7 +2,7 @@
 
 This is a collection of all the projects made by the community funded by the Decentraland DAO.
 
-## Platform Category - Last update Sep-30-2023
+## Platform Category - Last update Dec-28-2023
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
 | [Atlas Analytics - Open Sourcing the Platform for the Community](https://decentraland.org/governance/proposal/?id=fe85ab06-618d-4181-960d-fc32d5f0a7e1)                | -       | -   | Active   |
