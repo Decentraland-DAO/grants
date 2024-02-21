@@ -31,7 +31,7 @@ This is a collection of all the projects made by the community funded by the Dec
 ## Another Categories - Last update 
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
-| [Designing Visual Content for DAO Documentation](https://decentraland.org/governance/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896)                | -       | -   | Completed   |
+| [Designing Visual Content for DAO Documentation](https://decentraland.org/governance/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896)                | -       | https://github.com/Decentraland-DAO/DAOVisualGrant   | Completed   |
 
 
 
