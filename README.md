@@ -26,6 +26,15 @@ This is a collection of all the projects made by the community funded by the Dec
 | [Creation of DAO-Owned Catalyst Archival Node](https://governance.decentraland.org/update/?id=46271910-19b0-11ee-93a7-ed9294f83f74)              | https://gitlab.com/atlas-corporation/dcl-dao-catalyst-data       | -   | Completed   |
 | [Refund smart contract audit of DCLControllerV2](https://governance.decentraland.org/proposal/?id=1ed8c850-e53e-11ed-b8f1-75dbe089d333)              | Audit (No repo)       | -       |  Completed   |
 
+
+
+## Another Categories - Last update 
+| Project                              | Repository URL       | Mirror repository URL              |Status                  |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
+| [Designing Visual Content for DAO Documentation](https://decentraland.org/governance/proposal/?id=f5eda870-387b-11ee-aec9-fb54fc0c7896)                | -       | -   | Completed   |
+
+
+
 ## Platform Category (Legacy - approved before 2023 - Open Source was not a requisite)
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------|-----------------------------|
