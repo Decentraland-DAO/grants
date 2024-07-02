@@ -5,7 +5,6 @@ This is a collection of all the projects made by the community funded by the Dec
 ## Platform Category - Last update March-27-2024
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
-| [kdbkjdbjsdb](https://decentraland.org/governance/proposal/?id=578d3fjedfjehbfjebje)                |  -       |  - | Active   |
 | [No-Code UI Design Studio](https://decentraland.org/governance/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd)                |  -       |  - | Active   |
 | [DCL Metrics](https://decentraland.org/governance/proposal/?id=5b63274e-1bfb-42cb-b381-396f04a3bb9f)                |  https://github.com/DCL-Metrics/       |  https://github.com/Decentraland-DAO/dcl-metrics-events https://github.com/Decentraland-DAO/dcl-metrics-be https://github.com/Decentraland-DAO/dcl-metrics-fe https://github.com/Decentraland-DAO/dcl-metrics-bot-server https://github.com/Decentraland-DAO/dcl-metrics-telemetry | Active   |
 | [AI Integration into Decentraland](https://decentraland.org/governance/proposal/?id=42a603d2-9b6c-4d80-afb3-b2d029ffd367)                | https://github.com/yanis7774/llm-response https://github.com/alexgrim123/dcl-npc-toolkit        | https://github.com/Decentraland-DAO/llm-response https://github.com/Decentraland-DAO/dcl-npc-toolkit     | Active   |
