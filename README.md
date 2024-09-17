@@ -2,7 +2,7 @@
 
 This is a collection of all the projects made by the community funded by the Decentraland DAO.
 
-## Platform Category - Last update March-27-2024
+## Platform Category - Last update August-30-2024
 | Project                              | Repository URL       | Mirror repository URL              |Status                  |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------- | ----------------------------- |
 | [No-Code UI Design Studio](https://decentraland.org/governance/proposal/?id=578d3d3e-9fd2-48cb-bea3-ddc6fb5ab1dd)                |  https://github.com/szilardjanko/ui-design-studio       |  https://github.com/Decentraland-DAO/ui-design-studio | Active   |
